@@ -14,11 +14,8 @@ Currently expanding skills in **Python**, **Swift**, and **Figma**. I learn fast
 ---
 
 ## What I’m focusing on right now
-- 📱 Mobile app development
-- 🌐 Front-end web development
+
 - 🐍 Python (projects + fundamentals)
-- 🍎 Swift (iOS basics + small apps)
-- 🎨 Figma (UI/UX + prototyping)
 
 ---
 
