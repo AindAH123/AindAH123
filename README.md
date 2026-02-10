@@ -1,7 +1,7 @@
 # Aind Ahmad
 
 Computer Science student focused on **data analysis and software development**.  
-Currently building skills in **Python, R, and analytical problem-solving**.
+Developing skills in **Python, R, and analytical problem-solving**.
 
 📍 Northfield, MN  
 📧 ahmad3@stolaf.edu  
@@ -11,9 +11,9 @@ Currently building skills in **Python, R, and analytical problem-solving**.
 
 ## About Me
 
-I am a CS student at St. Olaf College developing technical skills in programming and data analysis. I enjoy working with data, identifying patterns, and using code to support decision-making.
+I am a Computer Science student at St. Olaf College building technical skills in programming and data analysis. I enjoy working with data, identifying patterns, and using code to support decisions.
 
-I am actively building projects and looking for opportunities to gain real technical experience.
+I am actively developing projects and seeking hands-on technical experience.
 
 ---
 
@@ -29,7 +29,7 @@ B.A. in Computer Science (Expected May 2028)
 ### Wealth Tracker App (2025)
 Personal finance tracking application.
 
-- Helped develop features for tracking income and expenses  
+- Contributed to development of income and expense tracking features  
 - Implemented transaction logging and financial data organization  
 - Improved usability and interface structure  
 - Tested and debugged features for reliability  
@@ -38,13 +38,31 @@ Personal finance tracking application.
 
 ## Experience
 
-### Data Analyst — Football Team (2024–Present)
-St. Olaf College
+### Data Analyst — Football Team (2024–Present)  
+**St. Olaf College**
 
 - Analyzed opponent formations and tactical patterns  
 - Used RStudio to analyze match data across scenarios  
 - Compared formation effectiveness in different situations  
 - Provided data-driven insights for formation decisions  
+
+---
+
+### Assistant Curriculum Manager (Nov 2023 – June 2024)  
+**Hello Future — Sulaymaniyah, Iraq**
+
+- Reviewed and structured curriculum materials using analytical evaluation  
+- Identified content gaps and redundancies  
+- Coordinated curriculum updates based on feedback  
+
+---
+
+### Assistant Teacher (Jun 2023 – Aug 2023)  
+**Hello Future — Sulaymaniyah, Iraq**
+
+- Explained technical topics in structured formats  
+- Led group problem-solving activities  
+- Optimized lesson pacing using performance feedback  
 
 ---
 
