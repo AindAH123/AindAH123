@@ -1,70 +1,68 @@
-<!--
-Aind Ahmad — GitHub Profile README
-Tip: keep this short, concrete, and easy to scan.
--->
-
 # Aind Ahmad
 
-**Computer Science student** focused on **mobile app development** and **front-end web development**.  
-Currently expanding skills in **Python**, **Swift**, and **Figma**. I learn fast, solve problems, and like building real things.
+Computer Science student focused on **data analysis and software development**.  
+Currently building skills in **Python, R, and analytical problem-solving**.
 
-📍 Northfield, MN, USA  
-📧 ahmad3@stolaf.edu
-
----
-
-## What I’m focusing on right now
-
-- 🐍 Python (projects + fundamentals)
+📍 Northfield, MN  
+📧 ahmad3@stolaf.edu  
+💻 GitHub: https://github.com/AindAH123
 
 ---
 
-## Experience
-### St. Olaf College — Admission Fellow (Feb 2025 – Present)
-- Coordinate scheduling and logistics for ~**50 campus tours/week**
-- Lead tours and communicate clearly with diverse visitors
-- Ensure smooth visitor experience and handle questions confidently
+## About Me
 
-### St. Olaf College — Advancement Fellow (Sep 2024 – Present)
-- Support alumni + parent outreach and engagement
-- Assist with fundraising campaign coordination and team communication
+I am a CS student at St. Olaf College developing technical skills in programming and data analysis. I enjoy working with data, identifying patterns, and using code to support decision-making.
 
-### Hello Future — Assistant Curriculum Manager (Nov 2023 – Jan 2024)
-- Analyzed and updated curriculum materials for accuracy and efficiency
-- Improved structure and clarity of learning content
-
-### Hello Future — Assistant Teacher (Jun 2023 – Aug 2023)
-- Explained complex topics in a clear way
-- Led group activities to boost engagement and collaboration
-- Optimized lesson pacing and time allocation
-
----
-
-## Skills
-- **Programming:** Python, Swift  
-- **Design:** Figma, UI/UX Design  
-- **Other:** Communication, Teamwork, Data Entry
+I am actively building projects and looking for opportunities to gain real technical experience.
 
 ---
 
 ## Education
-**St. Olaf College** — B.A. in Computer Science *(Expected May 2028)*  
-Relevant coursework: **Intro to Python**
+
+**St. Olaf College**  
+B.A. in Computer Science (Expected May 2028)
 
 ---
 
 ## Projects
-*(Add your projects here. This section is weak if you leave it empty.)*
 
-- **Project Name 1** — short sentence on what it does  
-  Tech: Python / Swift / Web  
-  Link: (repo link)
+### Wealth Tracker App (2025)
+Personal finance tracking application.
 
-- **Project Name 2** — short sentence on impact  
-  Tech: …  
-  Link: …
+- Helped develop features for tracking income and expenses  
+- Implemented transaction logging and financial data organization  
+- Improved usability and interface structure  
+- Tested and debugged features for reliability  
 
 ---
 
-## Contact
-- Email: **ahmad3@stolaf.edu**
+## Experience
+
+### Data Analyst — Football Team (2024–Present)
+St. Olaf College
+
+- Analyzed opponent formations and tactical patterns  
+- Used RStudio to analyze match data across scenarios  
+- Compared formation effectiveness in different situations  
+- Provided data-driven insights for formation decisions  
+
+---
+
+## Technical Skills
+
+**Programming:**  
+Python, R  
+
+**Tools:**  
+Git, GitHub, RStudio, VS Code  
+
+**Concepts:**  
+Object-Oriented Programming  
+Basic Data Structures  
+Debugging  
+Data Analysis  
+
+**Other:**  
+Problem-Solving  
+Communication  
+Teamwork
