@@ -4,7 +4,6 @@ Data Science student at St. Olaf College with hands-on experience building end-t
 
 📍 Northfield, MN  
 📧 ahmad3@stolaf.edu  
-🔗 https://github.com/AindAH123
 
 ---
 
